@@ -4,7 +4,8 @@
 I'm interested in human centered design, AI ethics, and software engineering for social good
 
 &nbsp; 🔭 Working on: [OtterDr](https://github.com/OtterDr/OtterDr), VSCode extension (Node.js + TypeScript + OpenAI API) </br>
-&nbsp; 🌳 Outside of code: making art, textiles, and skiing
+&nbsp; 🌳 Outside of code: making art, textiles, and skiing </br>
+&nbsp; 👀 Take a look at my [portfolio](https://katygwells.com)
 <!--
 **katygus/katygus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
